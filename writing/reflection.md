@@ -44,13 +44,13 @@ Realising which portions could actually be put into other functions. Even though
 
 Your Response:
 
-TODO
+It is important for many reasons. It makes it take less time for others to read and they can comprehend it better. It also allows for easier changes if someone overlooks your code. My responsibilities are to provide clear and effective code that serves the purpose or solves the problem given. It being clear is the key point.
 
 2. Consider the use of open source code (like the spaghetti code provided). What are some ethical considerations when using, modifying, or sharing code written by others?
 
 Your Response:
 
-TODO
+I should always share where the code was taken or used from to allow others the credit for their work. I should also do this to help myself because if I share this for a different use than it was intended, then the person that may be editing or using my code later on will be able to see how it functioned originally. 
 
 ---
 
